@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a68c9719308e1506294cb67e594c1695",
+    "revision": "1c1e0e246126187c55ea2493b6ab40fb",
     "url": "/Kanchan_portfolio/index.html"
   },
   {
-    "revision": "4711faca044887516242",
+    "revision": "5d5f8802bef501b35f2a",
     "url": "/Kanchan_portfolio/static/css/main.b9e2ac8f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kanchan_portfolio/static/js/2.dbe60e30.chunk.js"
   },
   {
-    "revision": "4711faca044887516242",
-    "url": "/Kanchan_portfolio/static/js/main.00218cce.chunk.js"
+    "revision": "5d5f8802bef501b35f2a",
+    "url": "/Kanchan_portfolio/static/js/main.a9508be8.chunk.js"
   },
   {
     "revision": "b752688d51a3353a1f91",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kanchan_portfolio/static/media/paanini.049768a0.png"
   },
   {
-    "revision": "f598f59031f9375693bf7290ed3eeca9",
-    "url": "/Kanchan_portfolio/static/media/resume.f598f590.pdf"
+    "revision": "306c2ad5bbda66e11e8f35e648672a01",
+    "url": "/Kanchan_portfolio/static/media/resume.306c2ad5.pdf"
   },
   {
     "revision": "5ebe3c16d22952aa4c0b471e4df8da10",
