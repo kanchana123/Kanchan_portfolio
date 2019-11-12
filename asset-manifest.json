@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kanchan_portfolio/static/css/main.b9e2ac8f.chunk.css",
+    "main.js": "/Kanchan_portfolio/static/js/main.00218cce.chunk.js",
+    "main.js.map": "/Kanchan_portfolio/static/js/main.00218cce.chunk.js.map",
+    "runtime-main.js": "/Kanchan_portfolio/static/js/runtime-main.023fa34f.js",
+    "runtime-main.js.map": "/Kanchan_portfolio/static/js/runtime-main.023fa34f.js.map",
+    "static/js/2.dbe60e30.chunk.js": "/Kanchan_portfolio/static/js/2.dbe60e30.chunk.js",
+    "static/js/2.dbe60e30.chunk.js.map": "/Kanchan_portfolio/static/js/2.dbe60e30.chunk.js.map",
+    "index.html": "/Kanchan_portfolio/index.html",
+    "precache-manifest.2c62e566e0af1609bf3d56a2627b0750.js": "/Kanchan_portfolio/precache-manifest.2c62e566e0af1609bf3d56a2627b0750.js",
+    "service-worker.js": "/Kanchan_portfolio/service-worker.js",
+    "static/css/main.b9e2ac8f.chunk.css.map": "/Kanchan_portfolio/static/css/main.b9e2ac8f.chunk.css.map",
+    "static/media/Clouds.JPG": "/Kanchan_portfolio/static/media/Clouds.87782d29.JPG",
+    "static/media/earthquake.JPG": "/Kanchan_portfolio/static/media/earthquake.9db49b2c.JPG",
+    "static/media/logo.svg": "/Kanchan_portfolio/static/media/logo.25bf045c.svg",
+    "static/media/paanini.png": "/Kanchan_portfolio/static/media/paanini.049768a0.png",
+    "static/media/resume.pdf": "/Kanchan_portfolio/static/media/resume.f598f590.pdf",
+    "static/media/steel.png": "/Kanchan_portfolio/static/media/steel.5ebe3c16.png"
+  }
+}
